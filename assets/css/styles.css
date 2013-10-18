@@ -1,0 +1,354 @@
+html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, abbr, address, cite, code, del, dfn, em, img, ins, kbd, q, samp, small, strong, sub, sup, var, b, i, dl, dt, dd, ol, ul, li, form, fieldset, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, figcaption, figure, footer, header, menu, nav, section, summary, time, mark, audio, video { background: transparent; font-size: 100%; vertical-align: baseline; border: 0; outline: 0; margin: 0; padding: 0; }
+
+html { background: #fff; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -webkit-font-smoothing: antialiased; height: 100%; overflow-y: scroll; -webkit-overflow-scrolling: touch; }
+body { font: normal 1em/1.5 "Helvetica Neue", Arial, Helvetica, sans-serif; color: #111; height: 100%; }
+
+article, aside, figure, figcaption, footer, header, nav, section { display: block; }
+h1, h2, h3, h4, h5, h6, p, ul, ol, dl, pre, address, table, form, hr, figure, audio, video { margin-bottom: 1.5em; }
+
+
+
+/* TYPOGRAPHY
+------------------------------------------------------------------------------------------------ */
+
+h1 { font-weight: bold; font-size: 3em; line-height: 1.15; margin-bottom: .5em; }
+h2 { font-weight: bold; font-size: 2em; line-height: 1.25; margin-bottom: .75em; }
+h3 { font-weight: bold; font-size: 1.5em; line-height: 1.25; margin-bottom: 1em; }
+h4 { font-weight: bold; font-size: 1em; }
+h5 { font-weight: bold; font-size: 1em; }
+h6 { font-weight: bold; font-size: 1em; }
+
+a, :focus { outline: 0; }
+
+a { color: #07f; text-decoration: none; }
+a:visited { color: #07f; text-decoration: none; }
+a:hover { color: #07f; text-decoration: underline; }
+a:active { color: #07f; text-decoration: underline; }
+
+a img { border: 0 none; }
+
+strong, b { font-weight: bold; }
+small { font-size: .875em; }
+strike, del { text-decoration: line-through; }
+
+pre, code, kbd, samp { font-family: Consolas, "Lucida Console", Monaco, monospace; font-size: .875em; }
+pre { white-space: pre; white-space: pre-wrap; word-wrap: break-word; }
+sub, sup { font-size: 75%; line-height: 0; position: relative; vertical-align: baseline; }
+sup { top: -0.5em; }
+sub { bottom: -0.25em; }
+mark { background: #ffc; padding: 1px 3px; }
+
+blockquote { font-style: italic; border-left: 2px solid #07f; margin-bottom: 1.5em; padding: 1.125em 1.5em 1px; }
+
+hr { display: block; height: 0; border: 0 none; border-top: 1px solid #384749; margin: 2.5em 0; }
+
+ul { list-style: square outside; margin-left: 2em; }
+ul ul { margin-bottom: 0; }
+
+ol { list-style: decimal outside; margin-left: 2em; }
+ol ol { margin-bottom: 0; }
+
+
+/* MEDIA
+------------------------------------------------------------------------------------------------ */
+
+img { -ms-interpolation-mode: bicubic; }
+img, object, embed { display: block; vertical-align: middle; max-width: 100%; width: auto; width: auto\9; /* IE Fix */ height: auto; border: 0; }
+audio, canvas, video { display: inline-block; }
+audio:not([controls]) { display: none; }
+
+figure {  }
+figcaption {  }
+
+img, object, embed {  }
+
+/* Disable max-width for Google Map images */
+#map_canvas img, .google-maps img { max-width: none; }
+
+
+
+/* MODUL: HEADER (Masthead)
+------------------------------------------------------------------------------------------------ */
+
+.masthead {   }
+.masthead > div {  }
+.logo img {  }
+
+.blog-title {  }
+.blog-description {  }
+
+
+
+/* MODUL: MAIN
+------------------------------------------------------------------------------------------------ */
+
+.main {  }
+
+
+
+/* MODUL: FOOTER (Contentinfo)
+------------------------------------------------------------------------------------------------ */
+
+footer[role=contentinfo] {  }
+
+
+
+
+
+/*
+===================================================================================================
+M E D I A   Q U E R I E S   >   Min-width:  480px
+===================================================================================================
+*/
+
+@media only screen and (min-width: 480px) {
+
+
+
+/* TYPOGRAPHY
+------------------------------------------------------------------------------------------------ */
+
+
+
+/* MEDIA
+------------------------------------------------------------------------------------------------ */
+
+
+
+/* MODUL: HEADER (Masthead)
+------------------------------------------------------------------------------------------------ */
+
+
+
+/* MODUL: MAIN
+------------------------------------------------------------------------------------------------ */
+
+
+
+/* MODUL: FOOTER (Contentinfo)
+------------------------------------------------------------------------------------------------ */
+
+
+
+}
+
+
+
+
+
+/*
+===================================================================================================
+M E D I A   Q U E R I E S   >   Min-width:  768px
+===================================================================================================
+*/
+
+@media only screen and (min-width: 768px) {
+
+
+
+/* TYPOGRAPHY
+------------------------------------------------------------------------------------------------ */
+
+
+
+/* MEDIA
+------------------------------------------------------------------------------------------------ */
+
+
+
+/* MODUL: HEADER (Masthead)
+------------------------------------------------------------------------------------------------ */
+
+
+
+/* MODUL: MAIN
+------------------------------------------------------------------------------------------------ */
+
+
+
+/* MODUL: FOOTER (Contentinfo)
+------------------------------------------------------------------------------------------------ */
+
+
+
+}
+
+
+
+
+
+/*
+===================================================================================================
+M E D I A   Q U E R I E S   >   Min-width:  992px
+===================================================================================================
+*/
+
+@media only screen and (min-width: 992px) {
+
+
+
+/* TYPOGRAPHY
+------------------------------------------------------------------------------------------------ */
+
+
+
+/* MEDIA
+------------------------------------------------------------------------------------------------ */
+
+
+
+/* MODUL: HEADER (Masthead)
+------------------------------------------------------------------------------------------------ */
+
+
+
+/* MODUL: MAIN
+------------------------------------------------------------------------------------------------ */
+
+
+
+/* MODUL: FOOTER (Contentinfo)
+------------------------------------------------------------------------------------------------ */
+
+
+
+}
+
+
+
+
+
+/*
+===================================================================================================
+M E D I A   Q U E R I E S   >   Min-width:  1382px
+===================================================================================================
+*/
+
+@media only screen and (min-width: 1382px) {
+
+
+
+/* TYPOGRAPHY
+------------------------------------------------------------------------------------------------ */
+
+
+
+/* MEDIA
+------------------------------------------------------------------------------------------------ */
+
+
+
+/* MODUL: HEADER (Masthead)
+------------------------------------------------------------------------------------------------ */
+
+
+
+/* MODUL: MAIN
+------------------------------------------------------------------------------------------------ */
+
+
+
+/* MODUL: FOOTER (Contentinfo)
+------------------------------------------------------------------------------------------------ */
+
+
+
+}
+
+
+
+
+
+/*
+===================================================================================================
+M E D I A   Q U E R I E S   >   Retina / High DPI Styles
+===================================================================================================
+*/
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.3), only screen and (-o-min-device-pixel-ratio: 13/10), only screen and (min-resolution: 120dpi) {
+
+
+
+/* TYPOGRAPHY
+------------------------------------------------------------------------------------------------ */
+
+
+
+/* MEDIA
+------------------------------------------------------------------------------------------------ */
+
+
+
+/* MODUL: HEADER (Masthead)
+------------------------------------------------------------------------------------------------ */
+
+
+
+/* MODUL: MAIN
+------------------------------------------------------------------------------------------------ */
+
+
+
+/* MODUL: FOOTER (Contentinfo)
+------------------------------------------------------------------------------------------------ */
+
+
+
+}
+
+
+
+
+
+/*
+===================================================================================================
+M E D I A   Q U E R I E S   >   Print Styles
+===================================================================================================
+*/
+
+@media print {
+
+
+
+* { background: transparent !important; color: black !important; text-shadow: none !important; box-shadow: none !important; opacity: 1 !important; filter: none !important; -ms-filter: none !important; }
+
+@page { margin: 2cm; }
+
+
+
+/* TYPOGRAPHY
+------------------------------------------------------------------------------------------------ */
+
+h1, h2, h3, h4, h5, h6 { page-break-after: avoid; }
+p, h1, h2, h3, h4, h5, h6 { orphans: 3; widows: 3; }
+
+ul { list-style: disc inside; padding: 0 1em; }
+ol { list-style: decimal inside; padding: 0 1em; }
+
+a, a:visited { color: black !important; text-decoration: underline; }
+
+
+
+/* MEDIA
+------------------------------------------------------------------------------------------------ */
+
+img { page-break-inside: avoid; }
+
+
+
+/* MODUL: HEADER (Masthead)
+------------------------------------------------------------------------------------------------ */
+
+
+
+/* MODUL: MAIN
+------------------------------------------------------------------------------------------------ */
+
+
+
+/* MODUL: FOOTER (Contentinfo)
+------------------------------------------------------------------------------------------------ */
+
+
+
+}
