@@ -1,6 +1,6 @@
 # Ghost Blank  
 
-Ghost Blank is – guess what! – a blank theme for the [Ghost](http://ghost.org/), a new publishing platform. It contains all necessary files for your own theme design including templates for homepage and posts and a CSS file with custom reset and some basic styling. You’ll also find Modernizr.js and jQuery plus various polyfills to make older browsers behave nicely.
+Ghost Blank is – guess what! – a blank theme for [Ghost](http://ghost.org/), a new publishing platform. It contains all necessary files for your own theme design including templates for homepage and posts and a CSS file with custom reset and some basic styling. You’ll also find Modernizr.js and jQuery plus various polyfills to make older browsers behave nicely.
 
 **Demo:** [http://zitrusfrisch.com/ghost-blank-demo/](http://zitrusfrisch.com/ghost-blank-demo/)
 
