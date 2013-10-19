@@ -29,7 +29,7 @@ Tags: {{tags separator=" | "}}
 <address itemscope itemtype="http://schema.org/Person">
 {{#if author.image}}<div><img src="{{author.image}}" itemprop="image" alt="{{author.name}}" /></div>{{/if}}
 <p>{{author.name}}</p>
-{{#if author.website}}<p><a href="{{author.website}}" itemprop="url">Website: {{author.website}}</a></p>{{/if}}
+{{#if author.website}}<p>Website: <a href="{{author.website}}" itemprop="url">{{author.website}}</a></p>{{/if}}
 </address>
 {{#if author.bio}}<div><p>{{author.bio}}</p></div>{{/if}}
 </footer>
